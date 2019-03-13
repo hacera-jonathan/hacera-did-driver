@@ -1,8 +1,10 @@
-![DIF Logo](https://raw.githubusercontent.com/decentralized-identity/decentralized-identity.github.io/master/images/logo-small.png)
+![HACERA Logo](HACERA-logo-small.png)
+
+Visit us at [https://hacera.com](http://hacera.com)!
 
 # Universal Resolver Driver: did:hcr
 
-This is a [Universal Resolver](https://github.com/decentralized-identity/universal-resolver/) driver for **did:hcr** identifiers.
+This is a [Universal Resolver](https://github.com/decentralized-identity/universal-resolver/) driver for **did:hcr** identifiers by [HACERA](http://hacera.com)
 
 ## Specifications
 
